@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import { Link } from "react-router-dom";
 
 // Import all cover images using Vite's glob import
 const coverImages = import.meta.glob("../assets/covers/*.{jpg,png}", {
@@ -26,7 +27,7 @@ const Book = ({
       </div>
       <h2>{work.title}</h2>
       <h4>{work.author}</h4>
-      <button>Details</button>
+      <Link to={`/books/${work.id}`}>Details</Link>
     </StyledBook>
   );
 };

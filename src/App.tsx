@@ -3,6 +3,7 @@ import NavigationLayout from "./pages/NavigationLayout";
 import Home from "./pages/Home";
 import BooksOverview from "./pages/BooksOverview";
 import ErrorPage from "./pages/ErrorPage";
+import BookDetail from "./pages/BookDetail";
 
 const router = createBrowserRouter([
   {
@@ -17,6 +18,10 @@ const router = createBrowserRouter([
       {
         path: "/books",
         element: <BooksOverview />,
+      },
+      {
+        path: "/books/:id",
+        element: <BookDetail />,
       },
     ],
   },

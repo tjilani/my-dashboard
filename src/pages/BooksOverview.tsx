@@ -1,8 +1,11 @@
 import React from "react";
-import books from "../data/books.json";
+//import books from "../data/books.json";
+import { getAllBooks } from "../components/utils/bookService";
 import Book from "../components/Book";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
+
+const books = getAllBooks();
 
 const BooksOverview = () => {
   return (
