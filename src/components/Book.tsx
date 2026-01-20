@@ -37,23 +37,26 @@ const StyledBook = styled.article`
   background-color: #1f7a8c;
   padding: 1rem 1%.5rem;
   border-radius: 5px;
-  margin: 1.5rem;
-  width: 70vw;
-  height: 100px;
-  display: flex;
-  flex-direction: row;
+  margin: 1.5rem auto;
+  width: 75vw;
+  //min-height: 100px; // damit werden die child-elements nicht über den container hinausgehen aber Zeilenhöhe unterschiedlich
+  height: 10vw;
+  display: grid;
+  grid-template-columns: 7vw 35vw 15vw 1fr;
+  grid-column-gap: 1.5rem;
   justify-content: space-between;
   align-items: center;
   .image-box {
-    width: 100px;
-    height: 100px;
+    display: block;
+    height: 100%;
     background-color: #fff;
     border-radius: 5px;
     overflow: hidden;
   }
   .image-box img {
+    display: block;
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    object-fit: contain;
   }
 `;
