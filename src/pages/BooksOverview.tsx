@@ -9,7 +9,6 @@ const books: BookType[] = getAllBooks();
 const BooksOverview = () => {
   return (
     <>
-      <Link to="/">Home</Link>
       <h1>Books Overview</h1>
       <div>
         {books.map((book: BookType) => (

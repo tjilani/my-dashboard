@@ -32,9 +32,9 @@ type Chapter = {
 };
 
 type Analysis = {
-  summary: string;
-  context: string;
-  critique: string;
+  summary: string[];
+  context: string[];
+  critique: string[];
 };
 
 export type Book = {
