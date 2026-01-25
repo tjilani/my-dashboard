@@ -9,7 +9,6 @@ const coverImages = import.meta.glob("../assets/covers/*.{jpg,png}", {
 }) as Record<string, string>;
 
 const getCoverImage = (path: string): string => {
-  console.log("path:", path);
   console.log("coverImage:", coverImages[path]);
   return coverImages[path];
 };
@@ -34,7 +33,13 @@ const Book = (bookData: BookProps) => {
 export default Book;
 
 const StyledBook = styled.article`
-  background-color: #1f7a8c;
+  background-image:
+    linear-gradient(
+      90deg,
+      hsla(18, 76%, 85%, 0.6) 0%,
+      hsla(203, 69%, 84%, 0.6) 100%
+    ),
+    url("./public/book-plant.jpg");
   padding: 1rem 1%.5rem;
   border-radius: 5px;
   margin: 1.5rem auto;

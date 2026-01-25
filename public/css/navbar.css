@@ -1,0 +1,13 @@
+.navbar-container {
+  background-image:
+    linear-gradient(
+      90deg,
+      hsla(18, 76%, 85%, 0.6) 0%,
+      hsla(203, 69%, 84%, 0.6) 100%
+    ),
+    url("./public/book-plant.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 30vh;
+}

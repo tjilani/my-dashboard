@@ -1,10 +1,11 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
+import "../../public/css/navbar.css";
 
 const Navbar = () => {
   console.log("Navbar");
   return (
-    <nav>
+    <nav className="navbar-container">
       <ul>
         <li>
           <NavLink to="/">Home</NavLink>

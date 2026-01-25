@@ -2,7 +2,6 @@
 import { getAllBooks } from "../components/utils/bookService";
 import Book from "../components/Book";
 import { Link } from "react-router-dom";
-import styled from "styled-components";
 import type { Book as BookType } from "../components/utils/types";
 
 const books: BookType[] = getAllBooks();
@@ -22,10 +21,3 @@ const BooksOverview = () => {
 };
 
 export default BooksOverview;
-
-const StyledBooksOverview = styled.div`
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-`;
