@@ -1,11 +1,11 @@
-import React from "react";
 //import books from "../data/books.json";
 import { getAllBooks } from "../components/utils/bookService";
 import Book from "../components/Book";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
+import type { Book as BookType } from "../components/utils/types";
 
-const books = getAllBooks();
+const books: BookType[] = getAllBooks();
 
 const BooksOverview = () => {
   return (
@@ -13,8 +13,8 @@ const BooksOverview = () => {
       <Link to="/">Home</Link>
       <h1>Books Overview</h1>
       <div>
-        {books.map((book) => (
-          <Book key={book.work.id} work={book.work} />
+        {books.map((book: BookType) => (
+          <Book key={book.work.id} {...book} />
         ))}
       </div>
     </>

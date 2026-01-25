@@ -1,9 +1,12 @@
-import books from "../../data/books.json";
+import booksData from "../../data/books.json";
+import type { Book } from "./types";
 
-export const getBookById = (id: any) => {
+const books = booksData as Book[];
+
+export const getBookById = (id: string): Book | undefined => {
   return books.find((book) => book.work.id === id);
 };
 
-export const getAllBooks = () => {
+export const getAllBooks = (): Book[] => {
   return books;
 };

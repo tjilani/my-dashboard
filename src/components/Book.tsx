@@ -1,6 +1,6 @@
-import React from "react";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
+import type { Book as BookType } from "./utils/types";
 
 // Import all cover images using Vite's glob import
 const coverImages = import.meta.glob("../assets/covers/*.{jpg,png}", {
@@ -14,11 +14,10 @@ const getCoverImage = (path: string): string => {
   return coverImages[path];
 };
 
-const Book = ({
-  work,
-}: {
-  work: { id: string; title: string; author: string; cover_small: string };
-}) => {
+interface BookProps extends BookType {}
+
+const Book = (bookData: BookProps) => {
+  const { work } = bookData;
   const coverImage = getCoverImage(work.cover_small);
   return (
     <StyledBook key={work.id}>
