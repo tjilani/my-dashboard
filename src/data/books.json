@@ -359,30 +359,27 @@
     ],
     "analysis": {
       "summary": [
-        "Schnelles Denken, langsames Denken ist ein 2011 erschienenes Sachbuch des Psychologen und Nobelpreisträgers Daniel Kahneman, das die Grundlagen menschlicher Urteilsbildung und Entscheidungsfindung untersucht.",
-        "Im Zentrum steht die Unterscheidung zwischen zwei Denkmodi: System 1 arbeitet schnell, automatisch und intuitiv, während System 2 langsam, bewusst und analytisch arbeitet.",
-        "Kahneman zeigt, dass System 1 einen Großteil unseres Denkens steuert und dabei systematische Fehler produziert, die von System 2 oft nicht korrigiert werden.",
-        "Ein Schwerpunkt des Buches liegt auf kognitiven Verzerrungen wie dem Ankereffekt, der Verfügbarkeitsheuristik, Überkonfidenz und dem Bestätigungsfehler.",
-        "Ein zentrales theoretisches Fundament bildet die Prospect Theory, nach der Menschen Verluste stärker gewichten als gleich große Gewinne und Entscheidungen relativ zu Referenzpunkten treffen.",
-        "Kahneman unterscheidet zwischen dem erlebenden und dem erinnernden Selbst und zeigt, wie retrospektive Bewertungen systematisch verzerrt sind.",
-        "Er analysiert die Grenzen von Intuition und Expertise und argumentiert, dass intuitive Urteile nur in stabilen, feedbackreichen Umgebungen zuverlässig sind.",
-        "Abschließend plädiert Kahneman für institutionelle Maßnahmen und strukturiertes Denken, um die systematischen Schwächen menschlicher Kognition auszugleichen."
+        "Schnelles Denken, langsames Denken (Originaltitel: Thinking, Fast and Slow) ist ein 2011 erschienenes Sachbuch des israelisch-amerikanischen Psychologen und Nobelpreisträgers Daniel Kahneman. Das Buch fasst mehrere Jahrzehnte empirischer Forschung zur menschlichen Wahrnehmung, Urteilsbildung und Entscheidungsfindung zusammen und stellt die Annahme eines grundsätzlich rational handelnden Menschen infrage.",
+        "Im Zentrum des Werkes steht die Unterscheidung zweier Denkmodi, die Kahneman als System 1 und System 2 bezeichnet. System 1 arbeitet schnell, automatisch und weitgehend unbewusst. Es erzeugt Intuitionen, Eindrücke und spontane Urteile. System 2 hingegen arbeitet langsam, bewusst und anstrengend. Es ist zuständig für logisches Denken, komplexe Berechnungen und Selbstkontrolle. Kahneman zeigt, dass System 1 den Großteil unseres Alltagsdenkens steuert, während System 2 häufig lediglich bestätigend oder rechtfertigend eingreift.",
+        "Ein wesentlicher Teil des Buches widmet sich den sogenannten kognitiven Verzerrungen. Kahneman beschreibt systematische Denkfehler wie den Ankereffekt, die Verfügbarkeitsheuristik, den Bestätigungsfehler und Überkonfidenz. Diese Verzerrungen entstehen nicht zufällig, sondern sind direkte Konsequenzen der Arbeitsweise von System 1. Sie führen dazu, dass Menschen Wahrscheinlichkeiten falsch einschätzen, Zufälle als Muster interpretieren und ihre eigenen Fähigkeiten überschätzen.",
+        "Ein zentrales theoretisches Fundament bildet die von Kahneman gemeinsam mit Amos Tversky entwickelte Prospect Theory. Diese zeigt, dass Menschen Gewinne und Verluste asymmetrisch bewerten. Verluste werden subjektiv stärker empfunden als gleich große Gewinne, und Entscheidungen werden relativ zu einem Referenzpunkt getroffen. Dieses Verhalten widerspricht klassischen ökonomischen Modellen, die von rationaler Nutzenmaximierung ausgehen, und erklärt zahlreiche Phänomene wie Risikoaversion oder Verlustvermeidung.",
+        "Kahneman unterscheidet zudem zwischen dem erlebenden Selbst und dem erinnernden Selbst. Menschen bewerten Erfahrungen nicht nach ihrem objektiven Verlauf oder ihrer Dauer, sondern anhand von emotionalen Höhepunkten und dem Ende einer Erfahrung. Diese Verzerrung beeinflusst Lebenszufriedenheit, medizinische Entscheidungen und retrospektive Urteile erheblich.",
+        "Ein weiterer Schwerpunkt liegt auf den Grenzen von Expertise und Intuition. Kahneman argumentiert, dass intuitive Urteile nur in stabilen, regelhaften und feedbackreichen Umgebungen zuverlässig sind. In komplexen und unsicheren Kontexten wie Finanzmärkten oder politischen Prognosen führe Intuition häufig zu systematischen Fehlurteilen.",
+        "Abschließend plädiert Kahneman nicht für die Abschaffung von Intuition, sondern für ein Bewusstsein gegenüber ihren Grenzen. Institutionelle Regeln, statistisches Denken und strukturierte Entscheidungsverfahren sollen helfen, die systematischen Schwächen menschlicher Kognition zu kompensieren. Schnelles Denken, langsames Denken ist damit sowohl Grundlagenwerk der Verhaltensökonomie als auch eine umfassende Analyse menschlicher Rationalität."
       ],
       "context": [
-        "Das Buch erschien in einer Zeit des Vertrauensverlusts gegenüber rationalen Marktmodellen, insbesondere nach der Finanzkrise von 2008.",
-        "Es markiert den Durchbruch der Verhaltensökonomie in den gesellschaftlichen Mainstream und stellt das Bild des rationalen Entscheiders infrage.",
-        "Kahnemans Ansatz passte in eine wachsende Skepsis gegenüber Intuition und Expertenurteilen.",
-        "Gleichzeitig verstärkte sich das Interesse an evidenzbasierten Entscheidungen und algorithmischer Unterstützung.",
-        "Das Werk reflektiert eine Gesellschaft, die mit Informationsüberfluss und kognitiver Überforderung konfrontiert ist.",
-        "Auch kulturelle Trends zur Selbstbeobachtung und Selbstoptimierung werden durch das Buch theoretisch untermauert."
+        "Schnelles Denken, langsames Denken erschien in einer Phase tiefgreifender Zweifel an der Rationalität von Märkten, Institutionen und Experten. Die globale Finanzkrise von 2008 hatte gezeigt, wie fehleranfällig selbst hochkomplexe Risikomodelle und professionelle Entscheidungen sein können. Kahnemans Werk lieferte hierfür eine kognitionspsychologische Erklärung.",
+        "Das Buch markiert den Durchbruch der Verhaltensökonomie in den gesellschaftlichen Mainstream. Die Vorstellung des rationalen homo oeconomicus verlor an Plausibilität, während systematische Irrationalität als normales menschliches Merkmal anerkannt wurde. Diese Perspektive beeinflusste Wirtschaftspolitik, Management, Recht und öffentliche Verwaltung.",
+        "Zeitgeistig ist auch die wachsende Skepsis gegenüber Intuition, Bauchgefühl und Expertenurteilen. Gleichzeitig entstand ein verstärktes Interesse an evidenzbasierten Entscheidungen, Algorithmen und datengetriebenen Verfahren. Kahnemans Betonung institutioneller Schutzmechanismen gegen Denkfehler passt in diese Entwicklung.",
+        "Darüber hinaus reflektiert das Buch eine Gesellschaft, die mit Informationsüberfluss, permanenter Ablenkung und steigender kognitiver Belastung konfrontiert ist. Schnelles Denken, langsames Denken liefert ein theoretisches Fundament, um diese Überforderung zu verstehen.",
+        "Nicht zuletzt fügt sich das Werk in einen kulturellen Trend zur Selbstbeobachtung und Selbstoptimierung ein. Die Einsicht, dass das eigene Denken systematisch fehlerhaft ist, wird zugleich als Warnung und als Möglichkeit zur Verbesserung individueller und kollektiver Entscheidungen verstanden."
       ],
       "critique": [
-        "Schnelles Denken, langsames Denken ist eines der einflussreichsten Sachbücher der modernen Psychologie und überzeugt durch seine systematische Argumentation.",
-        "Die klare Darstellung experimenteller Forschung und die Vielzahl anschaulicher Beispiele sind große Stärken des Buches.",
-        "Kritisch ist die starke Betonung kognitiver Defizite, wodurch Intuition überwiegend als Fehlerquelle erscheint.",
-        "Einige zugrunde liegende Studien wurden später im Kontext der Replikationskrise diskutiert.",
-        "Die praktische Umsetzung von Debiasing-Strategien bleibt begrenzt und oft institutionell gedacht.",
-        "Trotz hoher Komplexität und stellenweise anspruchsvollem Stil überwiegt der Erkenntnisgewinn deutlich."
+        "Schnelles Denken, langsames Denken gilt zu Recht als eines der einflussreichsten Sachbücher der modernen Psychologie. Kahnemans große Stärke liegt in der systematischen Zusammenführung experimenteller Forschung zu einem kohärenten Modell menschlicher Kognition. Die Vielzahl anschaulicher Beispiele macht komplexe Befunde zugänglich.",
+        "Kritisch anzumerken ist die starke Betonung kognitiver Defizite. Intuition erscheint häufig primär als Fehlerquelle, während ihre kreativen, sozialen oder adaptiven Funktionen weniger Beachtung finden. Dies kann zu einem einseitig pessimistischen Menschenbild führen.",
+        "Zudem wurden Teile der zugrunde liegenden Forschung später im Kontext der Replikationskrise diskutiert. Zwar gelten viele Kerneffekte als robust, doch die Popularisierung einzelner Biases hat mitunter zu Vereinfachungen geführt, die der methodischen Komplexität nicht immer gerecht werden.",
+        "Ein weiterer Kritikpunkt betrifft die begrenzte Umsetzbarkeit von Debiasing-Strategien. Kahneman selbst zeigt, wie schwierig es ist, Denkfehler individuell zu korrigieren. Die vorgeschlagenen Lösungen verlagern Verantwortung häufig auf institutionelle Strukturen, ohne deren politische oder organisatorische Umsetzung detailliert auszuführen.",
+        "Stilistisch erfordert das Buch hohe Konzentration. Die Fülle an Experimenten und Begriffen kann anspruchsvoll sein. Dennoch überwiegt der Erkenntnisgewinn deutlich. Schnelles Denken, langsames Denken ist weniger ein Selbsthilfebuch als eine intellektuelle Zumutung und gerade darin liegt seine bleibende Stärke."
       ]
     }
   },
