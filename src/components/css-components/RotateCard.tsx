@@ -21,8 +21,8 @@ export default RotateCard;
 
 const StyledRotateCard = styled.div`
   .card {
-    width: 10rem;
-    height: 15rem;
+    width: 15rem;
+    height: 22rem;
     margin: 1.5rem auto;
     position: relative;
     perspective: 100rem;
@@ -41,10 +41,10 @@ const StyledRotateCard = styled.div`
     font-size: 1.5rem;
     color: #fff;
     &--front {
-      background-color: #f6cdbc8a; // rgba(246, 205, 188, 0.6)
+      background-color: #f6cdbc; // rgba(246, 205, 188, 0.6)
     }
     &--back {
-      background-color: #baddf299;
+      background-color: #baddf2;
       transform: rotateY(-180deg);
     }
   }
