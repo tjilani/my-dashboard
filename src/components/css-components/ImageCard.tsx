@@ -1,6 +1,5 @@
 import styled from "styled-components";
 import huxley from "../../assets/people/huxley.jpg";
-import huxleybook from "../../assets/people/huxley-book.jpg";
 
 const ImageCard = () => {
   return (

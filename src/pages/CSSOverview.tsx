@@ -1,6 +1,7 @@
 import RotateCard from "../components/css-components/RotateCard";
 import ImageCard from "../components/css-components/ImageCard";
 import BlendCard from "../components/css-components/BlendCard";
+import CardTextFoto from "../components/css-components/CardTextFoto";
 
 const CSSOverview = () => {
   return (
@@ -18,6 +19,10 @@ const CSSOverview = () => {
         <div className="css-overview-item">
           <h2>Blend Card</h2>
           <BlendCard />
+        </div>
+        <div className="css-overview-item">
+          <h2>Card Text Foto</h2>
+          <CardTextFoto />
         </div>
       </div>
     </section>
